@@ -11,10 +11,15 @@ It's set up like this.
 
 ## Prerequisites
 · Python 3
+
 · requests library
+
 · beautifulsoup4 library
+
 · selenium library
+
 · Edge web browser (if using the web driver)
+
 
 ## Built With
 Python 3 - The programming language used
